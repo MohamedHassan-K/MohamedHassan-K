@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative real-time projects
 - 📫 How to reach me mdhas0304@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Single
+
 
 <!---
 MohamedHassan-K/MohamedHassan-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
